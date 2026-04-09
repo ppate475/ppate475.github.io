@@ -6,7 +6,7 @@ title: HW5 - Bigfoot Visualizations
 # Bigfoot Sightings Visualizations
 
 [The Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv)  
-[The Analysis](https://github.com/ppate475/ppate475.github.io/blob/main/python_notebooks/HW5_purva.ipynb)
+[The Analysis](https://github.com/ppate475/ppate475.github.io/blob/main/python_notebooks/Workbook.ipynb)
 
 ## Visualization 1
 
