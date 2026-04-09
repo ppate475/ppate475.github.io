@@ -1,18 +1,11 @@
----
-layout: project
-title: Bigfoot Sightings Visualizations
-permalink: /projects/hw5/
-description: A two-part visualization project using Altair and Vega-Lite to explore geographic and environmental patterns in reported Bigfoot sightings.
-img: /assets/img/hw5_preview.png
-importance: 2
-category: data visualization
-tags: [Python, Altair, Vega-Lite]
----
+--- 
+layout: default 
+title: HW5 - Bigfoot Visualizations 
+--- 
 
-# Bigfoot Sightings Visualizations
-
-[The Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv)  
-[The Analysis](https://github.com/ppate475/ppate475.github.io/blob/main/python_notebooks/HW5_purva.ipynb)
+# Bigfoot Sightings Visualizations 
+[The Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv) 
+[The Analysis](https://github.com/ppate475/ppate475.github.io/blob/main/python_notebooks/HW5_purva.ipynb) ---
 
 ---
 
