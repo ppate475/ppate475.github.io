@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: HW5 - Bigfoot Visualizations
 ---
 
