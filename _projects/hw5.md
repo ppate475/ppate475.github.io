@@ -1,6 +1,12 @@
 ---
-layout: default
-title: HW5 - Bigfoot Visualizations
+layout: project
+title: Bigfoot Sightings Visualizations
+permalink: /projects/hw5/
+description: A two-part visualization project using Altair and Vega-Lite to explore geographic and environmental patterns in reported Bigfoot sightings.
+img: /assets/img/hw5_preview.png
+importance: 2
+category: data visualization
+tags: [Python, Altair, Vega-Lite]
 ---
 
 # Bigfoot Sightings Visualizations
